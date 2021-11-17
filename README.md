@@ -5,7 +5,7 @@
 ```
 ---------------------------------------------------------
 ⌛ Projet en cours : "Dyskolos.fr" en HTML 🔵
-📄 Objectif : Creer un maximum de services pour Dyskolos.fr | Manjaro 🟩
+📄 Objectif : Creer un maximum de services pour Dyskolos.fr | 😀
 👨‍💻 "Compétences" : HTML | CSS | Docker 🐋
 ---------------------------------------------------------
 ```
