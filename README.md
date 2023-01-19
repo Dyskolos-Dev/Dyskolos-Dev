@@ -1,6 +1,6 @@
 ### Salut a tous 👋, Dyskolos_
-#### Devloppeur a ses heures perdues | Collegien
-![Devloppeur a ses heures perdues | Collegien](https://cdn.discordapp.com/attachments/884680737524187136/916415104852037692/Dyskolos_.png)
+#### Devloppeur a ses heures perdues | Lycéen
+![Devloppeur a ses heures perdues | Lycéen](https://cdn.discordapp.com/attachments/884680737524187136/916415104852037692/Dyskolos_.png)
 
 Hey, moi c'est Dyskolos. Je suis fan de tech et d'hardware ! Ca fait maintenant 3 ans que je suis passionné et j'accumule de jours en jours de plus en plus de compétences
 
