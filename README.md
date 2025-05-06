@@ -1,4 +1,4 @@
-# Salut, je suis Dyskolos 👋
+# Salut, je suis Dyskolos_ 👋
 
 Je suis un passionné d'administration système, réseaux et développement front-end.  
 Actuellement futur étudiant en école supérieure, je me spécialise dans la gestion d'infrastructures, Linux, Docker, Proxmox, et le développement web (HTML, CSS, JavaScript).
@@ -39,4 +39,4 @@ Merci de ta visite, n’hésite pas à explorer mes projets et à me suivre pour
 
 ---
 
-*- Dyskolos*
+*- Dyskolos_*
