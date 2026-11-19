@@ -55,5 +55,5 @@ I'm looking for an **internship in systems & network administration**, and a wor
 An idea, a project, a question: [contact@dyskolos.fr](mailto:contact@dyskolos.fr) or [dyskolos.fr](https://dyskolos.fr).
 
 <div align="center">
-<sub><tt>dyskolos@horme:~$ _</tt></sub>
+<sub><tt>dyskolos@lyon:~$ _</tt></sub>
 </div>
