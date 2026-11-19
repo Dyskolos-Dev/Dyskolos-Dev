@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: jamesgeorge007/github-activity-readme@master
         with:
-          COMMIT_MSG: "chore: mise à jour des dernières contributions"
+          COMMIT_MSG: "chore: update latest contributions"
           MAX_LINES: 8
           COMMIT_NAME: "dyskolos-bot"
           COMMIT_EMAIL: "contact@dyskolos.fr"
