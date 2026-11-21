@@ -45,6 +45,7 @@
 </div>
 
 <!--START_SECTION:activity-->
+1. 🚀 Published release [PodsDesk 1.0.0](https://github.com/Dyskolos-Dev/PodsDesk/releases/tag/v1.0.0) in [Dyskolos-Dev/PodsDesk](https://github.com/Dyskolos-Dev/PodsDesk)
 <!--END_SECTION:activity-->
 
 <br/>
